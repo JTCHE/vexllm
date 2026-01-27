@@ -14,6 +14,13 @@
     "version": "21.0"
   },
   {
+    "path": "houdini/vex/functions/attribclass",
+    "title": "attribclass VEX function",
+    "summary": "Returns the class of a geometry attribute.",
+    "category": "VEX > VEX Functions",
+    "version": "21.0"
+  },
+  {
     "path": "houdini/vex/functions/cross",
     "title": "cross VEX function",
     "summary": "Returns the cross product between the two vectors.",
