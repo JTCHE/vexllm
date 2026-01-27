@@ -49,6 +49,13 @@
     "version": "21.0"
   },
   {
+    "path": "houdini/vex/functions/setpointattrib",
+    "title": "setpointattrib VEX function",
+    "summary": "Sets a point attribute in a geometry.",
+    "category": "VEX > VEX Functions",
+    "version": "21.0"
+  },
+  {
     "path": "houdini/vex/functions/windingnumber",
     "title": "windingnumber VEX function",
     "summary": "Computes the winding number of a mesh around a point.",
