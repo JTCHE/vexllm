@@ -1,0 +1,9 @@
+[
+  {
+    "path": "houdini/vex/functions/foreach",
+    "title": "foreach",
+    "summary": "Loops over the items in an array, with optional enumeration.",
+    "category": "\n                            VEX\n                         > \n                            VEX Functions\n                        ",
+    "version": "21.0"
+  }
+]
