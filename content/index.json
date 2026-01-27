@@ -68,5 +68,12 @@
     "summary": "Computes the winding number of a mesh around a point.",
     "category": "VEX > VEX Functions",
     "version": "21.0"
+  },
+  {
+    "path": "houdini19.5/network/nodes",
+    "title": "Network editor",
+    "summary": "How to create, move, copy, and edit nodes.",
+    "category": "Networks and parameters",
+    "version": "19.5"
   }
 ]
