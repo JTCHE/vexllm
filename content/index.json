@@ -7,6 +7,13 @@
     "version": "21.0"
   },
   {
+    "path": "houdini/vex/functions/cross",
+    "title": "cross\n\n                    \n    \n        VEX function",
+    "summary": "Returns the cross product between the two vectors.",
+    "category": "VEX > VEX Functions",
+    "version": "21.0"
+  },
+  {
     "path": "houdini/vex/functions/fit",
     "title": "fit\n\n                    \n    \n        VEX function",
     "summary": "Takes the value in one range and shifts it to the corresponding value in a new range.",
