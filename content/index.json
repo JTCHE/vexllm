@@ -1,7 +1,7 @@
 [
   {
     "path": "houdini/vex/functions/append",
-    "title": "append\n\n                    \n    \n        VEX function",
+    "title": "append VEX function",
     "summary": "Adds an item to an array or string.",
     "category": "VEX > VEX Functions",
     "version": "21.0"
