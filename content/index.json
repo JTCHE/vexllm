@@ -26,5 +26,12 @@
     "summary": "Loops over the items in an array, with optional enumeration.",
     "category": "\n                            VEX\n                         > \n                            VEX Functions\n                        ",
     "version": "21.0"
+  },
+  {
+    "path": "houdini/vex/functions/noise",
+    "title": "noise\n\n                    \n    \n        VEX function",
+    "summary": "There are two forms of Perlin-style noise: a non-periodic noise which\nchanges randomly throughout N-dimensional space, and a periodic form\nwhich repeats over a given range of space.",
+    "category": "VEX > VEX Functions",
+    "version": "21.0"
   }
 ]
