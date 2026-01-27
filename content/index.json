@@ -49,6 +49,13 @@
     "version": "21.0"
   },
   {
+    "path": "houdini/vex/functions/removepointattrib",
+    "title": "removepointattrib VEX function",
+    "summary": "Removes a point attribute from a geometry.",
+    "category": "VEX > VEX Functions",
+    "version": "21.0"
+  },
+  {
     "path": "houdini/vex/functions/setpointattrib",
     "title": "setpointattrib VEX function",
     "summary": "Sets a point attribute in a geometry.",
